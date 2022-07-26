@@ -13,5 +13,5 @@
 Create a single file mojo.js application.
 
 ```
-npm init @mojojs/lite-app
+npm create @mojojs/lite-app
 ```
